@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: She/Her
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
